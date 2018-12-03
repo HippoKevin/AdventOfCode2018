@@ -319,5 +319,48 @@ namespace AdventOfCode2018 {
                 return ResourceManager.GetString("Day02Puzzle2Sample", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to #1 @ 871,327: 16x20
+        ///#2 @ 676,717: 27x26
+        ///#3 @ 245,818: 19x21
+        ///#4 @ 89,306: 22x11
+        ///#5 @ 451,712: 20x11
+        ///#6 @ 322,299: 24x29
+        ///#7 @ 161,304: 10x29
+        ///#8 @ 746,459: 19x25
+        ///#9 @ 720,21: 19x29
+        ///#10 @ 803,435: 22x20
+        ///#11 @ 437,394: 13x29
+        ///#12 @ 654,445: 22x25
+        ///#13 @ 723,721: 3x10
+        ///#14 @ 643,575: 13x28
+        ///#15 @ 706,265: 16x18
+        ///#16 @ 670,661: 21x21
+        ///#17 @ 168,664: 26x15
+        ///#18 @ 4,461: 19x29
+        ///#19 @ 771,73: 20x29
+        ///#20 @ 730,864: 24x12
+        ///#21 @ 373,371: 19x27
+        ///#22 @ 666,803: 23x17
+        ///#23 @ 944,277: 28x12
+        ///#24 @ 579,563: 25x13        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day03 {
+            get {
+                return ResourceManager.GetString("Day03", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to #1 @ 1,3: 4x4
+        ///#2 @ 3,1: 4x4
+        ///#3 @ 5,5: 2x2.
+        /// </summary>
+        internal static string Day03Puzzle1Sample {
+            get {
+                return ResourceManager.GetString("Day03Puzzle1Sample", resourceCulture);
+            }
+        }
     }
 }

@@ -6,7 +6,7 @@ namespace AdventOfCode2018
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day02Puzzle2.Solve(Inputs.Day02));
+            Console.WriteLine(Day03Puzzle1.Solve(Inputs.Day03));
             Console.ReadLine();
         }
     }
